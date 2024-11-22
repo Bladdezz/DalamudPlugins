@@ -2,7 +2,7 @@
   "Author": "bladdezz",
   "Name": "pAlias",
   "Punchline": "A plugin to add custom slash command aliases",
-  "Description": "A plugin to add custom slash command aliases. \n /palias opens the main window.",
+  "Description": "A plugin to add custom slash command aliases. \n \n /palias opens the main window.",
   "ApplicableVersion": "any",
   "Tags": [
     "utility",
